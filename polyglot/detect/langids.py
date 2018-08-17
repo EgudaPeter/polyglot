@@ -826,5 +826,9 @@ isoLangs = {
     "za":{
         "name":"Zhuang, Chuang",
         "nativeName":"Saɯ cueŋƅ, Saw cuengh"
+    },
+     "pg":{
+        "name":"Pidgin",
+        "nativeName":"Pidgin"
     }
 }
